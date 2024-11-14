@@ -1,0 +1,45 @@
+body {
+    background-color: grey;
+}
+
+h1{
+    font-size: 24px;
+    font-family: verdana;
+    color: white;
+    text-align: center;
+}
+
+p {
+    font-size: 24px;
+    font-family: verdana;
+
+}
+
+table{
+    text-align: left;
+    font-size: large;
+    border: 1px solid black;
+    align-content: center;
+}
+
+th {
+    border: 1px solid black;
+    padding: 8px;
+}
+td {
+    border: 1px solid black;
+    padding: 8px;
+}
+
+image{
+    margin: 100px;
+    place-items: center;
+    right: 50px;
+
+}
+
+a{
+    background-color: lightgray;
+    font-size: 30px;
+    padding: 5px;
+}
